@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Coding\Solar System\Solar System\main.cpp(54,14): error C2512: 'Planet': no appropriate default constructor available
+D:\Coding\Solar System\Solar System\main.cpp(10,7): message : see declaration of 'Planet'

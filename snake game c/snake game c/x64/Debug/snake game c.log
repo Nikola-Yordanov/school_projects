@@ -1,0 +1,3 @@
+﻿  codes.c
+D:\2_Nikola\Coding\snake game c\snake game c\codes.c(30,11): warning C4013: 'time' undefined; assuming extern returning int
+  snake game c.vcxproj -> D:\2_Nikola\Coding\snake game c\x64\Debug\snake game c.exe

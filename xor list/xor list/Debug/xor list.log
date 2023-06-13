@@ -1,0 +1,8 @@
+﻿  main.c
+D:\Coding\xor list\xor list\main.c(85,18): warning C4033: 'remove_item' must return a value
+D:\Coding\xor list\xor list\main.c(122,20): warning C4033: 'add_last' must return a value
+D:\Coding\xor list\xor list\main.c(143,24): warning C4047: 'return': 'list *' differs in levels of indirection from 'int'
+D:\Coding\xor list\xor list\main.c(96): warning C4715: 'remove_item': not all control paths return a value
+D:\Coding\xor list\xor list\main.c(147): warning C4715: 'rem_elem': not all control paths return a value
+D:\Coding\xor list\xor list\main.c(131): warning C4715: 'add_last': not all control paths return a value
+  xor list.vcxproj -> D:\Coding\xor list\Debug\xor list.exe

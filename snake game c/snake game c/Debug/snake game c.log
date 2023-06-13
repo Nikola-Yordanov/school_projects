@@ -1,0 +1,4 @@
+﻿  codes.c
+D:\Coding\snake game c\snake game c\codes.c(182,50): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Coding\snake game c\snake game c\codes.c(191,20): warning C4022: 'free': pointer mismatch for actual parameter 1
+  snake game c.vcxproj -> D:\Coding\snake game c\Debug\snake game c.exe

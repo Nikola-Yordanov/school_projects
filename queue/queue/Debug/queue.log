@@ -1,0 +1,12 @@
+﻿  main.c
+D:\Coding\queue\queue\main.c(47,15): warning C4047: 'function': 'queue *' differs in levels of indirection from 'queue **'
+D:\Coding\queue\queue\main.c(47,13): warning C4024: 'enqueue': different types for formal and actual parameter 1
+D:\Coding\queue\queue\main.c(48,15): warning C4047: 'function': 'queue *' differs in levels of indirection from 'queue **'
+D:\Coding\queue\queue\main.c(48,13): warning C4024: 'enqueue': different types for formal and actual parameter 1
+D:\Coding\queue\queue\main.c(49,15): warning C4047: 'function': 'queue *' differs in levels of indirection from 'queue **'
+D:\Coding\queue\queue\main.c(49,13): warning C4024: 'enqueue': different types for formal and actual parameter 1
+D:\Coding\queue\queue\main.c(50,15): warning C4047: 'function': 'queue *' differs in levels of indirection from 'queue **'
+D:\Coding\queue\queue\main.c(50,13): warning C4024: 'dequeue': different types for formal and actual parameter 1
+D:\Coding\queue\queue\main.c(50,21): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+D:\Coding\queue\queue\main.c(50,17): warning C4024: 'dequeue': different types for formal and actual parameter 2
+  queue.vcxproj -> D:\Coding\queue\Debug\queue.exe

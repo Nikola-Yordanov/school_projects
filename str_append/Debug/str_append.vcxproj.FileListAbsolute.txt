@@ -1,0 +1,2 @@
+C:\Users\PREDATOR\source\repos\str_append\Debug\str_append.exe
+C:\Users\PREDATOR\source\repos\str_append\Debug\str_append.pdb

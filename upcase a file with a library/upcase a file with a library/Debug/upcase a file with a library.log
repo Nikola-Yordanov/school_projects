@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\PREDATOR\source\repos\upcase a file with a library\upcase a file with a library\main.c(12,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\PREDATOR\source\repos\upcase a file with a library\upcase a file with a library\main.c(19,10): warning C4098: 'main': 'void' function returning a value
+C:\Users\PREDATOR\source\repos\upcase a file with a library\upcase a file with a library\main.c(23,19): warning C4098: 'main': 'void' function returning a value
+  upcase a file with a library.vcxproj -> C:\Users\PREDATOR\source\repos\upcase a file with a library\Debug\upcase.exe

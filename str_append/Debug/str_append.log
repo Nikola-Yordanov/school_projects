@@ -1,0 +1,8 @@
+﻿  str_append.c
+C:\Users\PREDATOR\source\repos\str_append\str_append.c(4,25): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\PREDATOR\source\repos\str_append\str_append.c(4,32): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\PREDATOR\source\repos\str_append\str_append.c(5,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\PREDATOR\source\repos\str_append\str_append.c(7,6): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\PREDATOR\source\repos\str_append\str_append.c(4,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+C:\Users\PREDATOR\source\repos\str_append\str_append.c(8): warning C4716: 'str_append': must return a value
+  str_append.vcxproj -> C:\Users\PREDATOR\source\repos\str_append\Debug\str_append.exe

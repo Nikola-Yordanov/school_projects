@@ -1,0 +1,5 @@
+﻿  zadacha.c
+C:\Users\PREDATOR\source\repos\zadacha\zadacha\zadacha.c(2,1): error C2081: 'y3': name in formal parameter list illegal
+C:\Users\PREDATOR\source\repos\zadacha\zadacha\zadacha.c(2,1): error C2081: 'y4': name in formal parameter list illegal
+C:\Users\PREDATOR\source\repos\zadacha\zadacha\zadacha.c(2,1): error C2143: syntax error: missing '{' before 'if'
+C:\Users\PREDATOR\source\repos\zadacha\zadacha\zadacha.c(2,1): error C2059: syntax error: 'if'
